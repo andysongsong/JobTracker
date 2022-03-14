@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 const Wrapper = styled.main`
   nav {
@@ -14,6 +14,10 @@ const Wrapper = styled.main`
     display: grid;
     align-items: center;
     margin-top: -3rem;
+  }
+  .logo {
+    width: 260px;
+    height: 260px;
   }
   h1 {
     font-weight: 700;
@@ -36,5 +40,5 @@ const Wrapper = styled.main`
       display: block;
     }
   }
-`
-export default Wrapper
+`;
+export default Wrapper;

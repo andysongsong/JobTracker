@@ -1,4 +1,4 @@
-import logo from "../assets/images/logo.svg";
+import logo from "../assets/images/logo.png";
 import main from "../assets/images/main.svg";
 import Wrapper from "../assets/wrappers/LandingPage";
 
