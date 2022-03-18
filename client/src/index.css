@@ -138,6 +138,10 @@ ul {
   padding: 0;
 }
 
+.logo {
+  width: 250px;
+  height: 250px;
+}
 .img {
   width: 100%;
   display: block;
